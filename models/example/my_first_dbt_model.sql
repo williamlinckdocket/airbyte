@@ -12,7 +12,7 @@
 
 
 select origem_atividade
-from crm.base_atividades
+from base_atividades
 
 /*
     Uncomment the line below to remove records with null `id` values

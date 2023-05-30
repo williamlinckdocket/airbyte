@@ -1,5 +1,4 @@
 {{ config(materialized='table') }}
 
-select *
+select id
 from homol.dbt2hdeals
-limit 10
